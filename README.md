@@ -3,6 +3,8 @@
 ## Overview
 This Power BI dashboard provides comprehensive business intelligence for  Company X, connecting directly to SQL Server for real-time data analysis. The solution offers interactive visualizations across sales, marketing, inventory, and customer experience metrics.
 
+![](image.png)
+
 ## Features
 
 ### 📊 Core Metrics
